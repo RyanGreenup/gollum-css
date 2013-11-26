@@ -7640,3 +7640,7 @@ p {
 #wiki-history table tr td.checkbox {
   display: table-cell;
 }
+
+.markdown-body p {
+  margin-bottom: 0px;
+}
