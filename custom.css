@@ -7617,7 +7617,7 @@ p {
 }
 
 #wiki-wrapper {
-  width: 100%;
+  width: 97%;
 }
 
 .minibutton a {
@@ -7640,8 +7640,15 @@ p {
 
 #wiki-history table tr td.checkbox {
   display: table-cell;
+  vertical-align: center;
+  padding-top: 10px;
 }
 
 .markdown-body p {
   margin-bottom: 0px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: none;
+}
+
