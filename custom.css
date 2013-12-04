@@ -7645,7 +7645,7 @@ p {
 }
 
 .markdown-body p {
-  margin-bottom: 0px;
+  margin-bottom: 5px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -7671,4 +7671,8 @@ div.markdown-body h6 {
 
 div.breadcrumb {
   background-color: white;
+}
+
+blockquote p {
+  font-size: 1em;
 }
